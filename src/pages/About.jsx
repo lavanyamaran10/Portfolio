@@ -114,7 +114,7 @@ const About = () => {
             <h3 className="text-2xl font-bold mb-4">Experience</h3>
             <div className="space-y-6">
               <div>
-                <h4 className="text-xl font-semibold">Trainee Software Engineer– React Developer</h4>
+                <h4 className="text-xl font-semibold">Trainee Software Engineer – React Developer</h4>
                 <p className="text-lg">Softsuave Technologies | Feb 2025 – Sep 2025</p>
                 <ul className="mt-3 space-y-2 list-disc list-inside">
                   <li>Primarily worked on front-end development with React.js</li>
