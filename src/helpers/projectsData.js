@@ -57,7 +57,7 @@ export const getProjects = () => {
       heading: "Weather Application",
       description:
         "Built a responsive weather app using React.js and OpenWeather API to display real-time temperature, humidity, and conditions. Implemented API integration, state management, and responsive design for desktop and mobile views.",
-      link: "https://weather-awfme4p6m-lavanyas-projects-edc94e70.vercel.app/",
+      link: "https://weather-app-gold-rho-28.vercel.app/",
       sourceCode: "https://github.com/lavanyamaran10/WeatherApp",
       image: weather,
     },
