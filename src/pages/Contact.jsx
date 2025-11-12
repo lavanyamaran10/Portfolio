@@ -49,7 +49,7 @@ message: ${formData.message}`;
   };
 
   const handleDownloadCV = () => {
-    window.open('https://drive.google.com/file/d/1MZdZi_baQYSawCWNDNZf1KUbjposzVrz/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1ddZjpXnvH3KpGljmcooE8qA80Z_rce9_/view?usp=drive_link', '_blank');
   };
 
   return (
