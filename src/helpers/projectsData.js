@@ -6,6 +6,7 @@ import flexgallery from "../assets/flexgallery.png";
 import gridgallery from "../assets/gridgallery.png";
 import solmusic from "../assets/solmusic.png";
 import weather from "../assets/weather.png";
+import florovision from "../assets/florovision.png";
 
 export const getProjects = () => {
   return [
@@ -39,7 +40,8 @@ export const getProjects = () => {
     {
       id: 4,
       heading: "Masonry Image Gallery",
-      description: "A React-based gallery project showcasing masonry-style image layouts using Flexbox. Focused on responsive design and layout alignment.",
+      description:
+        "A React-based gallery project showcasing masonry-style image layouts using Flexbox. Focused on responsive design and layout alignment.",
       link: "https://masonry-image-gallery-three.vercel.app/",
       sourceCode: "https://github.com/lavanyamaran10/masonry-image-gallery",
       image: flexgallery,
@@ -47,7 +49,8 @@ export const getProjects = () => {
     {
       id: 5,
       heading: "Destination Gallery",
-      description: "Created a grid-based responsive image gallery using React and CSS Grid to practice layout techniques and image rendering optimizations.",
+      description:
+        "Created a grid-based responsive image gallery using React and CSS Grid to practice layout techniques and image rendering optimizations.",
       link: "https://grid-gallery-jet.vercel.app/",
       sourceCode: "https://github.com/lavanyamaran10/grid-gallery",
       image: gridgallery,
@@ -78,6 +81,15 @@ export const getProjects = () => {
       link: "https://solmusic-ochre.vercel.app/",
       sourceCode: "https://github.com/lavanyamaran10/solmusic",
       image: solmusic,
+    },
+    {
+      id: 9,
+      heading: "Personal Portfolio Website",
+      description:
+        "A fully responsive plant e-commerce website built with React, Tailwind CSS, and Material-UI. Designed modern UI sections, reusable components, and smooth layouts for all screen sizes.",
+      link: "https://front-end-app-ten.vercel.app/",
+      sourceCode: "https://github.com/lavanyamaran10/front-end-app",
+      image: florovision,
     },
   ];
 };
